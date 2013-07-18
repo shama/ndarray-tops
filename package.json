@@ -1,0 +1,39 @@
+{
+  "name": "ndarray-tops",
+  "description": "Returns the highest points of a 3d ndarray as a 2d ndarray.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/shama/ndarray-tops",
+  "author": {
+    "name": "Kyle Robinson Young",
+    "email": "kyle@dontkry.com",
+    "url": "http://dontkry.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shama/ndarray-tops.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shama/ndarray-tops/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/shama/ndarray-tops/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "dtype": "~0.1.0",
+    "ndarray": "~1.0.3",
+    "isndarray": "~0.1.0"
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "ndarray"
+  ]
+}
